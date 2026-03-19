@@ -19,5 +19,5 @@ Mini projeto de análise de vendas utilizando SQL.
 - 9️⃣ Quem são os 5 clientes que mais gastaram? (CTE)
 - 🔟 Qual categoria gera mais receita?
 
-##Aprendizado final
+## Aprendizado final
 SELECT - COUNT - SUM - GROUP BY - ORDER BY - JOIN (simples e múltiplo) - HAVING - SUBQUERY - CTE
